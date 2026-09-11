@@ -44,10 +44,4 @@ This repository contains a full-stack AI customer support agent and evaluation h
 ## 🖼️ User Interface & Output Previews
 
 ### Streamlit Web Dashboard
-![UI Dashboard](assets/hiver1.png)
-
-### Intent & Escalation Routing
-![Escalation Result](assets/hiver2.png)
-
-### Automated Brand Response
 ![Generated Response](assets/hiver3.png)
